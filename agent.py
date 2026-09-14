@@ -858,7 +858,7 @@ class BotGUI:
                 [
                     "./whisper.cpp/build/bin/whisper-cli",
                     "-m",
-                    "./whisper.cpp/models/ggml-base.en.bin",
+                    "./whisper.cpp/models/ggml-base.bin",
                     "-l",
                     "en",
                     "-t",
